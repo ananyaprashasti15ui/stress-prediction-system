@@ -51,11 +51,12 @@ python stress_predict.py
 - Key contributing factors  
 - Suggestions  
 - Graph visualization
-
-- ## Research Paper
+- 
+## Research Paper
 
 You can view the detailed research paper here:
-[Download Paper](research_paper.pdf)
+
+[Download Research Paper](StressPredict_Research_Paper.pdf)
 
 ## Research Basis
 This project is inspired by research in stress detection and mental health analysis using questionnaire-based and computational methods.
