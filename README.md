@@ -63,5 +63,10 @@ This project is inspired by research in stress detection and mental health analy
 ## Disclaimer
 This is not a medical diagnosis system. It is only for educational purposes.
 
+## Reference Research Paper
+M. Sharisha Shanbhog, J. Medikonda, S. Rai, and R. C. Mathias,  
+"Explainable Machine Learning for Multiclass Stress Prediction Using Questionnaire Data,"  
+IEEE Access, 2026, doi: 10.1109/ACCESS.2026.3678412.
+
 ## Author
 Ananya Prashasti  
