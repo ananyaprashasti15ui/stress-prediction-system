@@ -50,7 +50,12 @@ python stress_predict.py
 - Stress Level  
 - Key contributing factors  
 - Suggestions  
-- Graph visualization  
+- Graph visualization
+
+- ## Research Paper
+
+You can view the detailed research paper here:
+[Download Paper](research_paper.pdf)
 
 ## Research Basis
 This project is inspired by research in stress detection and mental health analysis using questionnaire-based and computational methods.
