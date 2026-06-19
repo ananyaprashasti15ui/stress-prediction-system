@@ -54,9 +54,7 @@ python stress_predict.py
 - 
 ## Research Paper
 
-You can view the detailed research paper here:
-
-[Download Research Paper](STRESSPREDICT FINAL PPR.docx)
+You can also view the detailed research paper
 
 ## Research Basis
 This project is inspired by research in stress detection and mental health analysis using questionnaire-based and computational methods.
